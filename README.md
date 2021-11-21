@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# SPEC-A 블록체인 인증서 개인정보 등록 소스코드
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
